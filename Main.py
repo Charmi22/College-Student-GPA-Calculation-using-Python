@@ -1,10 +1,4 @@
-""" 
-        Group-8
-Maaz Jinwala : N01531110
-Praveen Nallu : N01510745
-Teja Varma Yeggadi : N01530436
 
-"""
 # import statement 
 from ClassFile import Humber_college 
 
